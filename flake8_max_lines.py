@@ -7,7 +7,7 @@ DEFAULT_MAX_LINES = 300
 
 class MaxLinesPlugin:
     name = "flake8_max_lines"
-    version = "0.0.1"
+    version = "0.0.2"
 
     max_lines = DEFAULT_MAX_LINES
 

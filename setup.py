@@ -8,7 +8,7 @@ requires = [
 setuptools.setup(
     name="flake8_max_lines",
     license="MIT",
-    version="0.0.1",
+    version="0.0.2",
     description="flake8 plugin to check max lines per files",
     author="misogihagi",
     author_email="hagimiso@gmail.com",
